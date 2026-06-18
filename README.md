@@ -228,6 +228,8 @@ flowchart TD
     P --> D
     R --> D
 ```
+<img width="1190" height="971" alt="image" src="https://github.com/user-attachments/assets/d14672fc-5b79-452c-a2f3-393b42482f8a" />
+
 
 Example prompts are pre-loaded in the UI, including one off-topic question to demonstrate the guardrail.
 
